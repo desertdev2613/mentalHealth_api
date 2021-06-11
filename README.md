@@ -4,6 +4,10 @@
 
 Link to API can be found here: <a href="https://mentalhealth-api.herokuapp.com/">Mental Health API</a>
 
+Link to books API can be found here: <a href="https://mentalhealth-api.herokuapp.com/books">Books API</a>
+
+Link to ideas API can be found here: <a href="https://mentalhealth-api.herokuapp.com/selfCare_ideas">Ideas API</a>
+
 #running json-server
 <img src="./assets/images/runDb.png" alt="run db.json">
 #creating heroku project
