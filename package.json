@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "json-server": "^0.16.3"
-  }
+  },
+  "name": "mentalhealth_api",
+  "description": "#### My mental health api groups together a list of self care ideas, products and ways to improve your mental health.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desertdev2613/mentalHealth_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/desertdev2613/mentalHealth_api/issues"
+  },
+  "homepage": "https://github.com/desertdev2613/mentalHealth_api#readme"
 }
