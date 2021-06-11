@@ -66,6 +66,54 @@
         {
             "id": 10, 
             "idea": "Dance around the living room"
+        }, 
+        {
+            "id": 11, 
+            "idea": "Say no to someting"
+        }, 
+        {
+            "id": 12, 
+            "idea": "Take a vibe drive"
+        }, 
+        {
+            "id": 13, 
+            "idea": "Drive to an outlook spot at night to watch the city lights"
+        }, 
+        {
+            "id": 14, 
+            "idea": "Make mini goals"
+        }, 
+        {
+            "id": 15, 
+            "idea": "Digital declutter"
+        }, 
+        {
+            "id": 16, 
+            "idea": "Clean"
+        }, 
+        {
+            "id": 17, 
+            "idea": "Organize your space"
+        }, 
+        {
+            "id": 18, 
+            "idea": "Meditate"
+        },
+        {
+            "id": 19, 
+            "idea": "Read a book"
+        }, 
+        {
+            "id": 20, 
+            "idea": "Listen to a podcast"
+        }, 
+        {
+            "id": 21, 
+            "idea": "Visit a friend or family member"
+        }, 
+        {
+            "id": 22, 
+            "idea": "Try something new"
         }
     ]
 }
