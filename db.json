@@ -1,0 +1,71 @@
+{
+    "books": [
+        {
+            "id": 0, 
+            "book_title": "Atomic Habits", 
+            "author": "James Clear",
+            "description": "Atomic Habits teaches people how to achieve their goals by solidifying their routines and creating habits.",
+            "web_url": "https://www.barnesandnoble.com/w/atomic-habits-james-clear/1129201155?ean=9780735211292"
+        }, 
+        {
+            "id": 1, 
+            "book_title": "How to Win Friends & Influence People", 
+            "author": "Dale Carnegie",
+            "description": "How to Win Friends & Influence People gives advice on how to be successful in both your business and personal live.",
+            "web_url": "https://www.barnesandnoble.com/w/how-to-win-friends-and-influence-people-dale-carnegie/1100370318?ean=9780671027032"
+        },
+        {
+            "id": 2, 
+            "book_title": "Big Magic: Creative Living Beyond Fear ", 
+            "author": "Elizabeth Gilbert",
+            "description": "Big Magic teaches you how powerful creativity can be and encourages you to dream big.",
+            "web_url": "https://www.barnesandnoble.com/w/big-magic-elizabeth-gilbert/1121030101?ean=9781594634727"
+        }
+    ], 
+    "selfCare_ideas":[
+        {
+            "id": 0, 
+            "idea": "Light Candles"
+        }, 
+        {
+            "id": 1, 
+            "idea": "Take a bath"
+        }, 
+        {
+            "id": 2, 
+            "idea": "Get Outside"
+        }, 
+        {
+            "id": 3, 
+            "idea": "Star Gaze"
+        }, 
+        {
+            "id": 4, 
+            "idea": "Blast Music"
+        }, 
+        {
+            "id": 5, 
+            "idea": "Get a massage"
+        }, 
+        {
+            "id": 6, 
+            "idea": "Have 2 hours of no screen time"
+        }, 
+        {
+            "id": 7, 
+            "idea": "Workout"
+        }, 
+        {
+            "id": 8, 
+            "idea": "Cuddle your pet"
+        }, 
+        {
+            "id": 9, 
+            "idea": "Buy a plant or incorporate them into your home. Bring the outside, inside"
+        }, 
+        {
+            "id": 10, 
+            "idea": "Dance around the living room"
+        }
+    ]
+}
