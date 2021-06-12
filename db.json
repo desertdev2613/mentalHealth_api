@@ -20,6 +20,20 @@
             "author": "Elizabeth Gilbert",
             "description": "Big Magic teaches you how powerful creativity can be and encourages you to dream big.",
             "web_url": "https://www.barnesandnoble.com/w/big-magic-elizabeth-gilbert/1121030101?ean=9781594634727"
+        }, 
+        {
+            "id": 3, 
+            "book_title": "The Subtle Art of not Giving a F*ck", 
+            "author": "Mark Manson",
+            "description": "In this generation-defining self-help guide, a superstar blogger cuts through the crap to show us how to stop trying to be 'positive' all the time so that we can truly become better, happier people.",
+            "web_url": "https://www.barnesandnoble.com/w/the-subtle-art-of-not-giving-a-f-ck-mark-manson/1123517507?ean=9780062457714"
+        }, 
+        {
+            "id": 4, 
+            "book_title": "Everything is F*cked - A book about hope", 
+            "author": "Mark Manson",
+            "description": "With his usual mix of erudition and where-the-f*ck-did-that-come-from humor, Manson takes us by the collar and challenges us to be more honest with ourselves and connected with the world in ways we probably haven’t considered before. It’s another counterintuitive romp through the pain in our hearts and the stress of our soul.",
+            "web_url": "https://www.barnesandnoble.com/w/everything-is-f-cked-mark-manson/1130040091?ean=9780062888433&aug=1"
         }
     ], 
     "selfCare_ideas":[
@@ -118,6 +132,34 @@
         {
             "id": 23, 
             "idea": "Face mask"
+        }, 
+        {
+            "id": 24, 
+            "idea": "Take a hike"
+        }, 
+        {
+            "id": 25, 
+            "idea": "Binge Netflix, Hulu or your favorite video platform such as Youtube"
+        }, 
+        {
+            "id": 26, 
+            "idea": "Play with your make-up. Create a look you have never tried before"
+        }, 
+        {
+            "id": 27, 
+            "idea": "Make a smoothie"
+        }, 
+        {
+            "id": 28, 
+            "idea": "Create something"
+        }, 
+        {
+            "id": 29, 
+            "idea": "Buy a blank canvas and some paint and paint something, anything. It doesn't matter if it's 'good'"
+        },
+        {
+            "id": 30, 
+            "idea": "Treat yourself to a coffee"
         }
     ], 
     "therapy":[
