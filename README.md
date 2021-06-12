@@ -19,3 +19,4 @@ Link to ideas API can be found here: <a href="https://mentalhealth-api.herokuapp
 <img src="./assets/images/api.png" alt="build">
 <img src="./assets/images/books.png" alt="build">
 <img src="./assets/images/ideas.png" alt="build">
+<img src="./assets/images/therapy_api.png" alt="build">
