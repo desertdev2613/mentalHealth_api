@@ -119,5 +119,47 @@
             "id": 23, 
             "idea": "Face mask"
         }
+    ], 
+    "therapy":[
+        {
+            "id": 0, 
+            "therapy_platform_name": "Better Help", 
+            "website_url": "https://www.betterhelp.com/helpme/?utm_source=AdWords&utm_medium=Search_PPC_c&utm_term=better+help_e&utm_content=121758997576&network=g&placement=&target=&matchtype=e&utm_campaign=12828978885&ad_type=text&adposition=&gclid=Cj0KCQjwk4yGBhDQARIsACGfAevElobwQSv9jnWTRFRJHkXQ9YzbMvICXhVc3o29Q7aDb6iqM0tLmxkaAi3aEALw_wcB&not_found=1&gor=helpme", 
+            "description": "Fill out a questionnaire to help Better Help assess your needs, message a conselor and start feeling better.", 
+            "focus": [
+                {
+                    "focus1": "anxiety", 
+                    "focus2": "depression", 
+                    "focus3": "stress", 
+                    "focus4": "self-esteem", 
+                    "focus5": "anger", 
+                    "focus6": "relationships", 
+                    "focus7": "grief", 
+                    "focus8": "eating disorder", 
+                    "focus9": "mental heatlh", 
+                    "focus10": "borderline personality disorder"
+                }
+            ]
+        }, 
+        {
+            "id": 1, 
+            "therapy_platform_name": "Talk Space", 
+            "website_url": "https://try.talkspace.com/online-therapy/1?utm_source=google&utm_medium=sembrand&utm_campaign=Search_Google_Brand_Desktop_Exact&utm_content=FEB2020-RSA-CAPS&utm_term=talkspace&gclid=Cj0KCQjwk4yGBhDQARIsACGfAevcfzlqFDZlTlBxWvfZ25mcT7wqbF1hUqml1z9i3_1ZvWLqfvnQgOkaAgoWEALw_wcB#how", 
+            "description": "Connect with a licensed therapist - from anywhere, anytime. ", 
+            "focus": [
+                {
+                    "focus1": "anxiety", 
+                    "focus2": "depression", 
+                    "focus3": "stress", 
+                    "focus4": "self-esteem", 
+                    "focus5": "anger", 
+                    "focus6": "relationships", 
+                    "focus7": "grief", 
+                    "focus8": "eating disorder", 
+                    "focus9": "mental heatlh", 
+                    "focus10": "borderline personality disorder"
+                }
+            ]
+        }
     ]
 }
